@@ -1,0 +1,6 @@
+flag_name: feature_flag_1
+description: Enable new feature for user profile
+status: enabled
+metadata:
+  author: John Doe
+  date: 2023-08-10
